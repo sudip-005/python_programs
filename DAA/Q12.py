@@ -1,5 +1,4 @@
 import sys
-
 def matrix_chain(p):
     n=len(p)
     m=[[0]*n for _ in range(n)]
